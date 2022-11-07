@@ -1,3 +1,3 @@
-# Rock Papper Scissors Game
+# Rock Paper Scissors Game
 
-This is a game where the Computer will play Rock Papper Scissors with you and choose at random.
+This is a game where the Computer will play Rock Paper Scissors with you and choose at random.
